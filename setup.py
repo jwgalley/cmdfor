@@ -29,7 +29,7 @@ setup(
     name='cmdfor',
     version=versioneer.get_version(),
     cmdclass=versioneer.get_cmdclass(),
-    description="nd for every line of input",
+    description="Run cmd for every line of input",
     long_description=readme + '\n\n' + history,
     author="Jesse Galley",
     author_email='jesse@jessegalley.net',
