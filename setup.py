@@ -1,6 +1,6 @@
-"""A setuptools based setup module for cmdfor"""
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""A setuptools based setup module for cmdfor"""
 
 from codecs import open
 from os import path
