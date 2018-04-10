@@ -11,12 +11,13 @@ def multi_itercmd(cmd, iterable, separator=None, out_dir=None, err_dir=None,
     Use mutitple concurrent threads to loop over iterable and execute a cmd for
     each iteraton.
 
-    :param iterable:
     :param cmd:
+    :param iterable:
     :param separator:
     :param out_dir:
     :param err_dir:
     :param err_files:
+    :param label_field:
     :param ignore_missing:
     :param threads:
     :return:
